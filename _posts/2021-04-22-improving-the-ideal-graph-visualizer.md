@@ -55,7 +55,7 @@ graph](https://github.com/openjdk/jdk/pull/2285), and [introduced more intuitive
 coloring schemes and default filters to focus on different aspects of the
 IR](https://github.com/openjdk/jdk/pull/2499).
 
-![IGV before and after JDK 17 improvements](/assets/before-after-jdk-improvements.png)
+![IGV before and after JDK 17 improvements]({{site.url}}/assets/before-after-jdk-improvements.png)
 
 {:.image-caption}
 *IGV before (left) and after (right) JDK 17 improvements*
