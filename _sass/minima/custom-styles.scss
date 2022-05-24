@@ -6,3 +6,15 @@
   font-size: .8rem;
   color: black;
 }
+
+.center-image
+{
+    margin: 0 auto;
+    display: block;
+}
+
+.acks {
+  margin-top: $spacing-unit;
+  text-align: left;
+  color: $brand-color-faded;
+}

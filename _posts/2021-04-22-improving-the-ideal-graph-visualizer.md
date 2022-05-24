@@ -93,3 +93,7 @@ Some of these tasks, [marked with the label
 are particularly suitable for newcomers who want to learn and contribute to
 OpenJDK: improving IGV is a more fun and less intimidating path towards learning
 the internals of a large and complex compiler than hacking the compiler itself.
+
+{:.acks}
+**Acknowledgements**: thanks to David Therkelsen for providing feedback on an
+earlier version of this post.
