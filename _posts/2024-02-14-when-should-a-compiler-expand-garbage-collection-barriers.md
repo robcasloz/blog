@@ -79,7 +79,7 @@ instructions at code emission time. This apparently naive approach (which we
 call "late barrier expansion") has an undeniable advantage: simplicity. Because
 it is so simple, it can be implemented very cheaply, which gives [a noticeable
 C2 speedup in our preliminary
-experiments]({{site.url}}/assets/c2-speed-results.ods). And, perhaps more
+experiments]({{site.url}}/assets/c2-speed-results.html). And, perhaps more
 importantly, it frees GC maintainers from a task they never signed up for:
 dealing with the intricacies and quirks of a [25-year
 old](https://en.wikipedia.org/wiki/HotSpot_(virtual_machine)#History) compiler
